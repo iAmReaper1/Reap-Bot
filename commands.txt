@@ -1,0 +1,13 @@
+Commands for Reap-Bot:
+
+::help / ::commands - Shows a list of all the commands
+
+::userInfo - Displays your user id, your messages sent in the discord, and finally it shoes when your account was created
+
+::siegheil - Responds with Heil Hitler! 卍
+
+::ping - Pong
+
+::purge (bot-commanders only) - Deletes a specified amount of messages
+
+::update - Tells all the members when the cheat has been updated
